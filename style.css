@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(98, 98, 98);
+}
+h1{
+    background-color:lightgrey;
+    font-size: 35px;
+    width: 1050px;
+    height: 60px;
+    padding: 12px;
+    color: rgb(88, 113, 44);
+   
+
+}
+.main{
+    background-color:coral;
+    height: 400px;
+    width: 1050px;
+  color: white;
+border: 10px;
+}
+.row1{
+    background-color:rgb(45, 77, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+  
+
+
+}
+.row2{
+    background-color:rgb(45, 109, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row3{
+    background-color:rgb(45, 132, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row4{
+    background-color:rgb(45, 145, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row5{
+    background-color:rgb(45, 151, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row6{
+    background-color:rgb(45, 170, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row7{
+    background-color:rgb(45, 180, 238);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row8{
+    background-color:rgb(93, 212, 93);
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row9{
+    background-color:lightpink;
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row10{
+    background-color:pink;
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row11{
+    background-color:rgb(238, 160, 173);
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row12{
+    background-color:rgb(238, 146, 161);
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row13{
+    background-color:rgb(232, 140, 155);
+    width: 1050px;
+  height: 30px;
+  color: white;
+
+}
+.row14{
+    background-color:rgb(247, 131, 150);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
+.row15{
+    background-color:rgb(254, 132, 152);
+    width: 1050px;
+  height: 30px;
+  color: white;
+}
